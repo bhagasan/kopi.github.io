@@ -2,16 +2,14 @@ body{
   font-family: 'Abril Fatface', cursive;
 }
 .section--home{
-  height: 280vh;
+  height: 300vh;
 }
 
 section{
   position: relative;
 }
 
-.spacer.s2{
-  min-height: 50vh;
-}
+
 
 #pin1{
   position: fixed;
